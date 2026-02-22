@@ -1,0 +1,8 @@
+{
+  "name": "human-design-api-examples",
+  "version": "1.0.0",
+  "description": "Example code for the Human Design Hub API",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://humandesignhub.app/human-design-api"
+}
