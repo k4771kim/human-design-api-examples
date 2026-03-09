@@ -3,7 +3,7 @@
 [![Powered by Human Design Hub](https://img.shields.io/badge/Powered%20by-Human%20Design%20Hub-blue)](https://humandesignhub.app)
 [![API Docs](https://img.shields.io/badge/API-Documentation-green)](https://humandesignhub.app/docs)
 
-Code examples for the [Human Design Hub API](https://humandesignhub.app/human-design-api) — the only Human Design API available. Calculate bodygraphs, transits, composites, and more using the Swiss Ephemeris engine.
+Code examples for the [Human Design Hub API](https://humandesignhub.app/human-design-api) — a Human Design API for developers. Calculate bodygraphs, transits, composites, and more using the Swiss Ephemeris engine.
 
 ## Quick Start
 
